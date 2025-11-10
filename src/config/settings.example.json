@@ -1,0 +1,9 @@
+{
+  "base_url": "https://www.zoopla.co.uk",
+  "user_agent": "ZooplaScraperBot/1.0 (+https://bitbash.dev)",
+  "timeout": 12,
+  "request_delay_seconds": 1.5,
+  "monitoring": true,
+  "snapshot_file": "data/last_snapshot.json",
+  "log_level": "INFO"
+}
