@@ -1,0 +1,50 @@
+[
+  {
+    "title": "4 bed flat for sale",
+    "uprn": "10033640629",
+    "address": "Blenheim House, One Tower Bridge, London SE1",
+    "epc": null,
+    "epcRating": "B",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "livingroom": null,
+    "price": "£6,900,000",
+    "description": null,
+    "coordinates": {
+      "latitude": "51.504199",
+      "longitude": "-0.083677"
+    },
+    "category": "sale",
+    "type": "flat",
+    "agent": "Prime London (Riverside)",
+    "agentPhone": "020 7768 6617",
+    "images": [
+      "https://lid.zoocdn.com/u/2400/1800/18d1a9db7827dbcf88ce7a0ccc9cbbc4b6dabdb5.jpg"
+    ],
+    "priceHistory": [
+      {
+        "action": "Sold",
+        "date": "May 2017",
+        "price": "£6,000,000"
+      }
+    ],
+    "pointsOfInterest": [
+      {
+        "title": "London Bridge",
+        "distance": "0.1 miles"
+      },
+      {
+        "title": "Snowsfields Primary School",
+        "distance": "0.2 miles"
+      }
+    ],
+    "propertyType": "flat",
+    "postalCode": "SE1 2AA",
+    "features": [
+      "River views",
+      "Prime location",
+      "Underground parking"
+    ],
+    "url": "https://www.zoopla.co.uk/for-sale/details/66233218/"
+  }
+]
