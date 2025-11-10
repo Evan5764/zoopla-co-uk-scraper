@@ -1,0 +1,13 @@
+{
+  "search_urls": [
+    "https://www.zoopla.co.uk/for-sale/property/london/?page_size=25",
+    "https://www.zoopla.co.uk/to-rent/property/manchester/?page_size=25"
+  ],
+  "monitoring": true,
+  "max_listings_per_search": 100,
+  "output": {
+    "directory": "data",
+    "base_filename": "zoopla_properties",
+    "formats": ["json", "csv", "excel", "xml", "rss"]
+  }
+}
